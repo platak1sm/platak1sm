@@ -25,6 +25,6 @@ My future goals involve getting my bachelor degree in Greece and then completing
 
 ### :fire: My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=platak1sm&layout=compact&lang_count=6&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=platak1sm)](https://github.com/anuraghazra/github-readme-stats)
 [![platak1sm's Github Stats](https://github-readme-stats.vercel.app/api?username=platak1sm&show_icons=true&theme=dracula&hide=stars,prs)](https://github.com/platak1sm/github-readme-stats)
 
